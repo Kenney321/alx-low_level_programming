@@ -10,7 +10,7 @@ int main(void)
 
 	for (i = 0; i++;)
 	{
-		printf("%d", i);
+		printf("0123456789", i);
 	}
 	putchar('\n');
 	return (0);
